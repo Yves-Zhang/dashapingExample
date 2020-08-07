@@ -3,12 +3,10 @@ import {
 	RestController
 } from 'dashaping';
 
-import say from '../test'
+import newTest from '../service/newTestService'
 
 @RestController
 class NewTestController {
-
-	name = 'zhangsan'
 
 	ControllerBeforeMapping(req, res, next){
         next()
@@ -16,7 +14,8 @@ class NewTestController {
 
 	@RestMapping('/user')
 	getUser(data, res) {
-		say()
+		console.log(data)
+		// newTest()
 		res.send(data);
 	}
 }

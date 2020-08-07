@@ -1,0 +1,3 @@
+const str = "openid=4C0D9F72EF2F25B3D9DC9F18D7609A5E; person_id_wsbeacon=5243374310651163; pvid=4499499310; pgv_pvi=6997856256; pgv_si=s849466368; ptui_loginuin=20654589; RK=qYJsS0KSZy; ptcz=bcf2ce2f4bab3bf677cebe9dad051a3a12393c94d012af7c883e73d781eb4210; sThrAppid=1101083114; iAuthType=1; openid=4C0D9F72EF2F25B3D9DC9F18D7609A5E; sSessionKey=7A1B50C610F55B0682B5BB814A0C61EB; person_id=1535073094970640; eas_sid=R1H5w9e6v7r0l1G4p8t1v9F5M5; eas_entry=https%3A%2F%2Fh5.weishi.qq.com%2Fweishi%2Faccount%2Flogin%3Fr_url%3Dhttps%253A%252F%252Ftest-isee.weishi.qq.com%252Findex.html%26loginfrom%3Dqc%26code%3DBC449338E6DBA5CD33B3AA9FC528891B%26state%3Dstate; wsreq_logseq=348248003"
+
+export default str
