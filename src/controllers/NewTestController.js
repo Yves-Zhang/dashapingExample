@@ -3,7 +3,7 @@ import {
 	RestController
 } from 'dashaping';
 
-import newTest from '../service/newTestService'
+// import newTest from '../service/newTestService'
 
 @RestController
 class NewTestController {

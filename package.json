@@ -1,5 +1,5 @@
 {
-  "name": "springExpress",
+  "name": "dashapingexample",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -15,10 +15,12 @@
     "body-parser": "^1.19.0",
     "dashaping": "git+https://github.com/Yves-Zhang/dashaping.git",
     "express": "^4.17.1",
+    "i": "^0.3.6",
     "moment": "^2.27.0",
     "node-banner": "^1.4.0",
+    "nodemailer": "^6.4.11",
     "nodemon": "^2.0.4",
-    "puppeteer": "^5.2.1",
+    "npm": "^6.14.7",
     "yamljs": "^0.3.0"
   },
   "devDependencies": {
@@ -30,7 +32,6 @@
     "@babel/preset-env": "^7.10.3",
     "@babel/register": "^7.10.3",
     "babel-loader": "^8.1.0",
-    "babel-preset-env": "^1.7.0",
-    "hotnode": "0.0.8"
+    "babel-preset-env": "^1.7.0"
   }
 }
